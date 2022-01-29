@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicManagementSystemFEConsoleApp", "ClinicManagementSystemFEConsoleApp\ClinicManagementSystemFEConsoleApp.csproj", "{4A4E511B-3812-473D-B746-F5A4511178A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClinicManagementSystemModelsLibrary", "ClinicManagementSystemModelsLibrary\ClinicManagementSystemModelsLibrary.csproj", "{24E356F1-275B-4B6B-BDE0-17DABC6167D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A4E511B-3812-473D-B746-F5A4511178A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4E511B-3812-473D-B746-F5A4511178A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4E511B-3812-473D-B746-F5A4511178A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4E511B-3812-473D-B746-F5A4511178A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24E356F1-275B-4B6B-BDE0-17DABC6167D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24E356F1-275B-4B6B-BDE0-17DABC6167D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24E356F1-275B-4B6B-BDE0-17DABC6167D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24E356F1-275B-4B6B-BDE0-17DABC6167D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2E3599F-8B0F-452E-83FB-83A46E3599D6}
+	EndGlobalSection
+EndGlobal
